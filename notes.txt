@@ -1,0 +1,28 @@
+step 1: create the virtual environment
+    python -m venv .EnvName (why use . )
+
+step 2: activate the environment 
+    .env\Scripts\activate.bat
+
+step 3: install all required dependencies
+    install django 
+
+step 4: create a project of django
+    django-admin startproject ProjectName 
+
+step 5: change the directory to project dir 
+    cd ProjectName
+
+step 6: start run server 
+    py manage.py runserver
+
+
+step 7: stop the server if your project getting suceessfully created 
+    ctrl+c (stop the server from command propmt)
+
+step 8: create your application using
+    django-admin startapp applicationname 
+    command
+
+step 9: after creating application again start the server
+    
