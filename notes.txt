@@ -26,3 +26,5 @@ step 8: create your application using
 
 step 9: after creating application again start the server
     
+
+step 10: for render the html page link into settings first 
